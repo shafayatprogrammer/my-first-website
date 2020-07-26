@@ -1,0 +1,21 @@
+h1{
+    color:aqua;
+    background-color: sienna;
+    height: 50px;
+    width: 50%;
+}
+p{
+    color: black;
+}
+#birthday {
+    background-color: springgreen;
+}
+.buddy{
+    background-color: violet;
+}
+.tour{
+    border: 5px dotted skyblue;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding-left: 15px;
+}
